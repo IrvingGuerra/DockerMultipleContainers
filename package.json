@@ -1,0 +1,23 @@
+{
+  "name": "visists",
+  "version": "1.0.0",
+  "description": "Contador de visitas con Docker",
+  "main": "index.js",
+  "dependencies": {
+    "express": "4.17.1",
+    "redis": "3.0.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrvingGuerra/DockerMultipleContainers.git"
+  },
+  "author": "Irving gUERRA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IrvingGuerra/DockerMultipleContainers/issues"
+  },
+  "homepage": "https://github.com/IrvingGuerra/DockerMultipleContainers#readme"
+}
